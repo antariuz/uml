@@ -1,1 +1,1 @@
-# uml
+# UML diagrams of patterns
