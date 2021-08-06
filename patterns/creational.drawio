@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T13:14:03.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.115 Safari/537.36" etag="qzTQTh5BNWnIQsyyA4zY" version="14.9.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-08-06T20:57:21.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.115 Safari/537.36" etag="BQQUiWQbs6geFJoQ-BV1" version="14.9.3" type="github" pages="5">
   <diagram name="Abstract Factory" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="1903" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1110" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,13 +37,13 @@
         <mxCell id="k-ADZDzj_pYLfuHxlR_S-11" value="+ createElectricalBicycle()&#xa;+ createElectricalScooter()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="k-ADZDzj_pYLfuHxlR_S-10">
           <mxGeometry y="26" width="180" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="k-ADZDzj_pYLfuHxlR_S-12" value="" style="endArrow=block;dashed=0;endFill=0;endSize=12;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="k-ADZDzj_pYLfuHxlR_S-8" target="k-ADZDzj_pYLfuHxlR_S-21">
+        <mxCell id="k-ADZDzj_pYLfuHxlR_S-12" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="k-ADZDzj_pYLfuHxlR_S-8" target="k-ADZDzj_pYLfuHxlR_S-21">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="170" y="200" as="sourcePoint" />
             <mxPoint x="240" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k-ADZDzj_pYLfuHxlR_S-13" value="" style="endArrow=block;dashed=0;endFill=0;endSize=12;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="k-ADZDzj_pYLfuHxlR_S-10" target="k-ADZDzj_pYLfuHxlR_S-21">
+        <mxCell id="k-ADZDzj_pYLfuHxlR_S-13" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="k-ADZDzj_pYLfuHxlR_S-10" target="k-ADZDzj_pYLfuHxlR_S-21">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="130" y="240" as="sourcePoint" />
             <mxPoint x="240" y="170" as="targetPoint" />
@@ -120,7 +120,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Svipk-x8OSGcu9Js8fru" name="Builder">
-    <mxGraphModel dx="1332" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="919" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="K4EH5ydkyuwT2IJZEQ6V-0" />
         <mxCell id="K4EH5ydkyuwT2IJZEQ6V-1" parent="K4EH5ydkyuwT2IJZEQ6V-0" />
@@ -173,7 +173,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MaCqoC3K-G2AlwnfR-V4" name="Factory Method">
-    <mxGraphModel dx="1332" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="761" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="TtsaoLJp0uNtPOPy8J0C-0" />
         <mxCell id="TtsaoLJp0uNtPOPy8J0C-1" parent="TtsaoLJp0uNtPOPy8J0C-0" />
@@ -198,10 +198,10 @@
             <mxPoint x="655" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SalfBSM_50r_KYWC8fBK-21" value="ScooterFactory" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="TtsaoLJp0uNtPOPy8J0C-1" vertex="1">
+        <mxCell id="SalfBSM_50r_KYWC8fBK-21" value="Factory" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="TtsaoLJp0uNtPOPy8J0C-1" vertex="1">
           <mxGeometry x="190" y="114" width="160" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="SalfBSM_50r_KYWC8fBK-22" value="+ createScooter()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="SalfBSM_50r_KYWC8fBK-21" vertex="1">
+        <mxCell id="SalfBSM_50r_KYWC8fBK-22" value="+ createVehicle()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="SalfBSM_50r_KYWC8fBK-21" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SalfBSM_50r_KYWC8fBK-23" value="BicycleFactory" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="TtsaoLJp0uNtPOPy8J0C-1" vertex="1">
@@ -241,7 +241,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WrU60CYk25x6iUcZn2zx" name="Prototype">
-    <mxGraphModel dx="1332" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="761" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="xfMzOjdkBIME0fWs6_Vc-0" />
         <mxCell id="xfMzOjdkBIME0fWs6_Vc-1" parent="xfMzOjdkBIME0fWs6_Vc-0" />
@@ -273,7 +273,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OYyfgTfCXXCCYheqO48G" name="Singleton">
-    <mxGraphModel dx="1332" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="386" dy="157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="LXMlgBPtZJWpeBORt-nU-0" />
         <mxCell id="LXMlgBPtZJWpeBORt-nU-1" parent="LXMlgBPtZJWpeBORt-nU-0" />
