@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-23T17:26:05.967Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="y1Ox-AHDoXpdIdlcyiAK" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-23T17:54:48.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="RHIoHaRfg-FhU9VSDRHh" version="14.9.8" type="github">
   <diagram id="-e_wmu3NMKhWV6rYPYVu" name="Страница 1">
     <mxGraphModel dx="1560" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -142,7 +142,7 @@
         <mxCell id="mpDr9F-g0uFuKk6S7ZN3-35" value="AbstactList" style="html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="470" y="380" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mpDr9F-g0uFuKk6S7ZN3-36" value="TreeSet" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="mpDr9F-g0uFuKk6S7ZN3-36" value="LinkedList" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="380" y="490" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mpDr9F-g0uFuKk6S7ZN3-38" value="" style="endArrow=block;endFill=0;endSize=12;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mpDr9F-g0uFuKk6S7ZN3-36" target="mpDr9F-g0uFuKk6S7ZN3-10">
