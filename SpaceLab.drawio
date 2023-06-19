@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T07:58:09.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZCEQvu2GJRxpFmzr_vWz" version="21.3.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-19T09:56:53.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5IFbidPRQ2gydQedurP8" version="21.3.8" type="github" pages="2">
   <diagram name="Structure" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2533" dy="1418" grid="1" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -158,6 +158,9 @@
         </mxCell>
         <mxCell id="-6PbxweHiK7UjyDSOZpS-10" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="50" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PbxweHiK7UjyDSOZpS-31" value="&lt;br&gt;&lt;br&gt;Entering registration data" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="210" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
